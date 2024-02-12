@@ -1,5 +1,2 @@
-mr1 = cv2.merge((g,b,r))
-# mr2 = cv2.merge((r,g,b))
-# cv2.imshow("merge1",mr1)
-# cv2.imshow("merge2",mr2)
-# cv2.imshow("original",img)
+cv2.imshow("ronaldo",img1)
+# cv2.imshow("messi",img)
